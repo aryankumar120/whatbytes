@@ -106,9 +106,27 @@ Authorization: Bearer <access_token>
 ## Screenshots
 Add your Postman or API test screenshots here:
 
-- 
-- 
-- 
+###Register
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/f8694012-f5eb-42e5-9595-cb5345236977" />
+
+###Login
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/5aad5bcd-5271-45c2-aa28-6c99eff6b969" />
+
+###Patients
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/f01c49f1-b0a6-4bbe-b747-a57d9b1c8338" />
+
+###Doctors
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/6a14a5bf-3ac4-40dc-9628-f9c505c836bb" />
+
+###Mappings
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/226da56e-b8f4-4216-9642-0a5b6ca5f577" />
+
+##GET results
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/d7d95cac-6226-4a53-ab55-c60ff990bbb0" />
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/882c854d-2cc1-4c50-989e-2a417a422c63" />
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/59e2902d-2d21-42c6-b592-899d6d158e15" />
+
+
 
 ## Notes / Suggestions
 - Refresh tokens from login then go for requests.
