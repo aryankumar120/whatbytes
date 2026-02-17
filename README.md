@@ -107,7 +107,7 @@ Authorization: Bearer <access_token>
 Add your Postman or API test screenshots here:
 
 ###Register
-<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/f8694012-f5eb-42e5-9595-cb5345236977" />
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/690b3b1a-fb65-4180-a6f6-b38794c3b5ad" />
 
 ###Login
 <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/5aad5bcd-5271-45c2-aa28-6c99eff6b969" />
