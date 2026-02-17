@@ -110,7 +110,7 @@ Add your Postman or API test screenshots here:
 <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/690b3b1a-fb65-4180-a6f6-b38794c3b5ad" />
 
 ###Login
-<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/5aad5bcd-5271-45c2-aa28-6c99eff6b969" />
+Holds Access Key
 
 ###Patients
 <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/f01c49f1-b0a6-4bbe-b747-a57d9b1c8338" />
